@@ -3,13 +3,9 @@ title = "Hello again"
 date = "2021-03-07"
 author = "Lia"
 authorTwitter = "emiabo" #do not include @
-cover = ""
-keywords = ["", ""]
-description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
-draft = true
 +++
 Hey everyone, it’s…been a while. Close to 3 years, if I recall, since my last blog entry. For those that are new: I’m Emilia, and I started this site to talk about the things I like and care about, free from the burden of a 280 character tweet. These days that’s mostly games, books, anime, movies, miscellaneous tech topics, and occasionally politics. I tend to ramble on (I’m doing it now…) so may as well have my own space to do that whenever I feel like it, under my complete control.
 
