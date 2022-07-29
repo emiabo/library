@@ -1,0 +1,11 @@
+/*Reducing top margin before post*/
+.header .menu {
+    margin: 5px 1px;
+}
+.post {
+    margin: 5px auto;
+    padding: 5px 0;
+}
+.headings--one-size h1:not(first-child) {
+    margin-top: 10px;
+}
