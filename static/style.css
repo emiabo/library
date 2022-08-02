@@ -1,3 +1,4 @@
+/*STYLE OVERRIDES FOR THEME: terminal*/
 /*Reducing top margin before post*/
 .header .menu {
     margin: 5px 1px;
@@ -8,4 +9,12 @@
 }
 .headings--one-size h1:not(first-child) {
     margin-top: 10px;
+}
+/*Link styles*/
+.post-content a {
+    color: var(--accent);
+}
+/*Fonts*/
+body {
+    font-family: Verdana, Geneva, Tahoma, monospace;
 }
