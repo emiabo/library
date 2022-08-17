@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://emiabo.github.io/library'
 languageCode = 'en-us'
 title = "Lia's Library"
 theme = "terminal"
