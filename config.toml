@@ -66,7 +66,7 @@ paginate = 10
     title = "Lia's Library"
     subtitle = "Animation, games, and other ramblings."
     owner = ""
-    keywords = ""
+    keywords = "anime, manga, video games, tech, blog"
     copyright = "Scylla Industries"
     menuMore = "Show more"
     readMore = "Read more"
@@ -89,3 +89,7 @@ paginate = 10
         identifier = "rss"
         name = "RSS"
         url = "/index.xml"
+      [[languages.en.menu.main]]
+        identifier = "ko-fi"
+        name = "Donate"
+        url = "https://ko-fi.com/emiabo"
