@@ -78,7 +78,7 @@ paginate = 10
 
     [languages.en.params.logo]
       logoText = "Lia's Library"
-      logoHomeLink = "/"
+      logoHomeLink = "https://emiabo.github.io/library"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
