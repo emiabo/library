@@ -1,4 +1,4 @@
-baseURL = 'https://emiabo.github.io/library'
+baseURL = 'https://www.emiabo.com/library'
 languageCode = 'en-us'
 title = "Lia's Library"
 theme = "terminal"
@@ -78,7 +78,7 @@ paginate = 10
 
     [languages.en.params.logo]
       logoText = "Lia's Library"
-      logoHomeLink = "https://emiabo.github.io/library"
+      logoHomeLink = "https://www.emiabo.com/library"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
