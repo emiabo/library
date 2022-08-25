@@ -1,3 +1,4 @@
+# baseURL = '/' for localhost only
 baseURL = 'https://www.emiabo.com/library'
 languageCode = 'en-us'
 title = "Lia's Library"
@@ -52,6 +53,13 @@ paginate = 10
   # set title for the table of contents
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
+
+  # googleAnalytics = 'G-JN6KR8QXYZ'
+
+[params.shareButtons]
+  size = "small"
+  networks = ["twitter", "tumblr", "reddit"]
+  icon = "solid"
 
 [params.twitter]
   # set Twitter handles for Twitter cards

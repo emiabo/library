@@ -10,6 +10,10 @@
 .headings--one-size h1:not(first-child) {
     margin-top: 10px;
 }
+/*Reducing bottom margin between post content and "read more" links*/
+.pagination__title {
+    margin-top: 20px;
+}
 /*Link styles*/
 .post-content a {
     color: var(--accent);
