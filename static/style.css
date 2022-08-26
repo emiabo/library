@@ -22,3 +22,12 @@
 body {
     font-family: Verdana, Geneva, Tahoma, monospace;
 }
+/*Footer (legal) links*/
+.footer-links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: var(--light-color-secondary);
+    margin: auto;
+    text-align: center;
+}

@@ -1,4 +1,4 @@
-# baseURL = '/' for localhost only
+#baseURL = '/'
 baseURL = 'https://www.emiabo.com/library'
 languageCode = 'en-us'
 title = "Lia's Library"
@@ -14,7 +14,7 @@ paginate = 10
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -54,7 +54,7 @@ paginate = 10
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
-  # googleAnalytics = 'G-JN6KR8QXYZ'
+  googleAnalytics = 'G-JN6KR8QXYZ'
 
 [params.shareButtons]
   size = "small"
@@ -76,7 +76,7 @@ paginate = 10
     owner = ""
     keywords = "anime, manga, video games, tech, blog"
     copyright = "Scylla Industries"
-    menuMore = "Show more"
+    menuMore = "More"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
@@ -93,11 +93,14 @@ paginate = 10
         identifier = "twitter"
         name = "Twitter"
         url = "https://twitter.com/emi_abo"
+        weight = 1
       [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
         url = "/index.xml"
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "ko-fi"
         name = "Donate"
         url = "https://ko-fi.com/emiabo"
+        weight = 3
