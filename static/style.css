@@ -27,7 +27,14 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    color: var(--light-color-secondary);
+    color: #908f95;
     margin: auto;
     text-align: center;
+}
+
+/*Defining dark theme so auto-dark mode extensions like Noir don't override these colors*/
+@media (prefers-color-scheme: dark) {
+    .post-content a {
+        color: var(--accent);
+    }
 }
