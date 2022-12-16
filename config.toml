@@ -54,18 +54,18 @@ paginate = 10
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
-  googleAnalytics = 'G-JN6KR8QXYZ'
+  googleAnalytics = ''
 
 [params.shareButtons]
   size = "small"
-  networks = ["twitter", "tumblr", "reddit"]
+  networks = ["tumblr", "reddit"]
   icon = "solid"
 
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "emiabo"
+  creator = ""
   site = ""
 
 [languages]
@@ -90,17 +90,22 @@ paginate = 10
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "twitter"
-        name = "Twitter"
-        url = "https://twitter.com/emi_abo"
+        identifier = "mastodon"
+        name = "Mastodon"
+        url = "https://octodon.social/@emiabo"
         weight = 1
+      [[languages.en.menu.main]]
+        identifier = "tumblr"
+        name = "Tumblr"
+        url = "https://emiabo.tumblr.com"
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
         url = "/index.xml"
-        weight = 2
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "ko-fi"
         name = "Donate"
         url = "https://ko-fi.com/emiabo"
-        weight = 3
+        weight = 4
