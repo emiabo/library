@@ -14,7 +14,7 @@ paginate = 10
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 10
 
   # show selector to switch language
   showLanguageSelector = false
@@ -105,7 +105,12 @@ paginate = 10
         url = "/index.xml"
         weight = 3
       [[languages.en.menu.main]]
-        identifier = "ko-fi"
-        name = "Donate"
-        url = "https://ko-fi.com/emiabo"
+        identifier = "category-essay"
+        name = "Essays"
+        url = "/categories/essay"
         weight = 4
+      [[languages.en.menu.main]]
+        identifier = "category-fiction"
+        name = "Fiction"
+        url = "/categories/fiction"
+        weight = 5
