@@ -2,7 +2,7 @@
 title = "Maizie in the Mountains: A Holiday Adventure"
 date = "2022-12-22T16:43:40-08:00"
 author = "Lia"
-cover = "images/cover.png"
+cover = "images/Pixel art of a tabby cat in snowy town at Christmas.png"
 tags = ["christmas", "fairytale", "cats"]
 categories = ["fiction"]
 description = "When Maizie the cat hears jingle bells one winter night, her life was changed forever."

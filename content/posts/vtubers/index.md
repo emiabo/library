@@ -3,7 +3,7 @@ title = "VTubers and famous anonymity"
 date = "2021-11-13"
 author = "Lia"
 authorTwitter = "emiabo" #do not include @
-cover = "images/cover.png"
+cover = "images/Silhouettes of five vtubers.png"
 tags = ["gaming", "japan", "media", "sociology", "streaming"]
 categories = ["essay"]
 description = ""
@@ -32,7 +32,7 @@ With all due respect, what is the reasoning for this? I’m only left to guess. 
 I would be remiss if I didn’t mention the graduations that occurred under not so benevolent circumstances. The most high profile sendoffs for one of the biggest VTubers on the planet occurred on July 1, 2021, when Holo member Kiryu Coco performed to nearly 500,000 live viewers and raised thousands in Super Chat donations (although [her channel does remain](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w) as of this writing). Back in September 2020, in a co-stream with fellow member Akai Haato, a list of subscribers by country was displayed, among them being a flag for Taiwan (the data, it’s worth noting, was taken directly from YouTube’s stats page). Almost immediately the outcry from some Chinese viewers was immense across Coco and various other members’ Bilibili pages and YouTube live chat, and in the subsequent weeks Cover put out an apologetic press release, both streamers were "suspended" for three weeks, and it eventually cascaded in the company’s entire fledgling Chinese division being retired, for no fault of their own. Despite valiant efforts to increase moderation, regular incursions of irate chat spam never fully died down for Coco after this, so the announcement of her departure was not entirely unexpected, even though she denied this as a primary reason. Sifting through [wiki pages of graduated VTubers](https://virtualyoutuber.fandom.com/wiki/Category:Retired) shows everything from benign personal reasons, to doxxing and harassment, to the ever-ominous "breach of contract".
 
 Even if your favorite actor stops making new movies, you’ll still have the DVDs. Even if your favorite band breaks up, you’ll always have the records, the T-shirts, and the memories. All you can do is be ready for the inevitable, and enjoy while you can.
-{{<figure src="images/okayu.png" caption="Don't forget the good times...">}}
+{{<figure src="images/okayu.png" alt="Screencaps from Nekomata Okayu stream. Text: Someday...when the existence of 'Nekomata Okayu' disappears from our daily lives, Please don't forget me" caption="Don't forget the good times...">}}
 ## Ownership of identity
 One of the hairier aspects of performing under a constructed character, in our IP-driven society, is who exactly owns it. In VTuber parlance it’s not uncommon to refer to one’s illustrator and model rigger affectionately as "mama/papa", but for others it’s clearly just a business relationship. It’s possible to get screwed by copyright law, as [Project Melody did last year](https://www.theverge.com/2020/11/24/21591488/projekt-melody-twitch-ban-copyright-strike-digitrevx-vtuber) when her commissioned modeler used DMCA strikes to take down her Twitch channel for a day. This was shortly before the debut of Vshojo, a production company for Twitch VTubers that claims to [operate more as an affiliation of semi-independent streamers](https://www.vshojo.com/faqs/) than a talent agency that ultimately has final say on public appearances, and owns all the IP outright.
 
