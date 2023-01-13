@@ -114,3 +114,6 @@ paginate = 10
         name = "Fiction"
         url = "/categories/fiction"
         weight = 5
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

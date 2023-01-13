@@ -41,8 +41,20 @@ So far, for most fiction writers, I can only really recommend this as a brainsto
 ### Image generation
 Enough about boring fiction! Almost *all* the attention NovelAI has received has been in the months since they launched their own contender in the diffusion image generator wars, with a remarkable knack for anime characters. It was trained from imageboard [Danbooru](https://safebooru.donmai.us/), and its resulting tag-based prompt system sets it apart from the mainstream tools like DALL-E or Midjourney. Rather than a plain English prompt ("An illustration of a tabby cat laying in a meadow in an impressionist style"), a NAI prompt is more like "1girl, medium brown hair, green eyes, sweater, orange background". As someone always on the lookout for character creators, I naturally couldn't resist.
 
-{{<figure src="images/nai/1.png" alt="" position="" style="width: 50%;" caption="" captionPosition="" captionStyle="">}}
-My first couple generations weren't bad, but kind of bland. Some hardcore users spend hours tinkering on the order of tags, `{{{emphasizing}}}` some and `[[[demoting]]]` others, but I haven't really had the time, patience, or generator credits for that, so eventually I started feeding in old avatars through the image-to-image mode. A few of the resulting artstyle changes were actually kinda cute!
+{{<figure src="images/nai/3.png" alt="portrait, 1girl, looking at viewer, light brown hair, green eyes, blue V-neck sweater" position="center" style="width: 256px;" caption="">}}
+{{<figure src="images/nai/4.png" alt="portrait, 1girl, looking at viewer, medium hair in half bun, light brown hair, green eyes, gray turtleneck sweater" position="center" style="width: 256px;" caption="Notice: eyebrow hair/collar stitching">}}
+
+My first couple generations weren't bad, but kind of bland. Some hardcore users spend hours tinkering on the order of tags, `{{{emphasizing}}}` some and `[[[demoting]]]` others, but I haven't really had the time, patience, or generator credits for that, so eventually I started feeding in old avatars (sorry I lost the source for most) through the image-to-image mode. A few of the resulting artstyle changes were actually kinda cute!
+
+{{<figure src="images/nai/5.png" alt="long lavender hair in half ponytail, red eyes, facial scar, red blazer, choker, giving backward peace sign with purple mail polish" position="center" style="width: 256px;" caption="Original from a picrew">}}
+{{<figure src="images/nai/6.png" alt="same as above but hair is now braided at sides and choker faces opposite the curve of her neck" position="center" style="width: 256px;" caption="oh god broken neck">}}
+{{<figure src="images/nai/7.png" alt="choker direction is back to normal and blazer now has gold trim" position="center" style="width: 256px;" caption="Better!">}}
+{{<figure src="images/nai/8.png" alt="long lavender hair with green eyes, white choker, headphones and purple sweater and collared shirt with bow" position="center" style="width: 256px;" caption="Original from a picrew">}}
+{{<figure src="images/nai/9.png" alt="largely the same but headphones are now green" position="center" style="width: 256px;" caption="">}}
+{{<figure src="images/nai/10.png" alt="added one headphone earcup around neck by bow" position="center" style="width: 256px;" caption="Notice: the half headphone">}}
+{{<figure src="images/nai/11.png" alt="headphone has been replaced by blue hairband" position="center" style="width: 256px;" caption="">}}
+{{<figure src="images/nai/12.JPG" alt="chibi style girl with long brown hair and pink backlighting, wearing headphones and holding boba tea in one hand and phone in other" position="center" style="width: 256px;" caption="Original from a picrew">}}
+{{<figure src="images/nai/13.png" alt="artstyle is looser, headphones gone and phone has been replaced by two neon gradient drinks in both hands" position="center" style="width: 256px;" caption="Interesting artstyle change!">}}
 
 At this point the drawbacks were becoming more apparent, though. The strange artifacts and uncomfortable anatomy, for one thing. These can mostly be retouched by hand later, but the bigger issue is limited capacity for defining multiple characters at once, or defining backgrounds in general. The tags just don't allow for that kind of granularity. The reason I kept all of these on solid-color backdrops is so I could composite them atop one later.
 
