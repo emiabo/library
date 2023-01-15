@@ -1,4 +1,5 @@
 # Lia's Library
+**This blog has moved again, to https://library.emiabo.com **
 
 A personal blog for whatever I'd like to ramble about.
 
